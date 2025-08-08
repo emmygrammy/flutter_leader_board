@@ -114,7 +114,7 @@ class _ConatinerBordState extends State<ConatinerBord> {
                     ),
                 
                     SizedBox(width: 10),
-                    Text('1000',
+                    Text('800',
                       style: TextStyle(
                         fontSize: 18,
                         fontWeight: FontWeight.w500,
@@ -159,7 +159,7 @@ class _ConatinerBordState extends State<ConatinerBord> {
                     ),
                 
                     SizedBox(width: 10),
-                    Text('1000',
+                    Text('600',
                       style: TextStyle(
                         fontSize: 18,
                         fontWeight: FontWeight.w500,

@@ -24,7 +24,7 @@ class _MusicListState extends State<MusicList> {
                     CircleAvatar(
                       radius: 20,
                       backgroundImage: AssetImage(
-                        "assets/images/plant.png",
+                        "assets/images/b.jpg",
                         )
                         ),
                     SizedBox(width: 10),
